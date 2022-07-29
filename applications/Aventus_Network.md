@@ -90,7 +90,7 @@ Originally, Metamask was restricted to Ethereum, and therefore the secp256k1 ell
 
 By employing these techniques, we would be able to leverage a familiar user interface and bring it to the Polkadot ecosystem, making it more user-friendly and thereby greatly increasing its appeal.
 
-![Aventus Polkadot services architecture.]()
+![Aventus Polkadot services architecture.](https://user-images.githubusercontent.com/45366558/181807898-fe24fd22-b1b8-4308-9c6d-488fc0c5d24a.png)
 
 Figure 1. Aventus Polkadot services architecture.
 
